@@ -12,6 +12,10 @@ I’m passionate about working with data and building practical solutions using:
 - **Power BI**
 - **Tableau**
 - **C/C++**
+- **JAVA**
+- **Javascript**
+- **Frontend Web Development**
+- **Backend Web Development**
 
 On my GitHub, you’ll find a blend of analytics dashboards, AI-based applications, and other projects that reflect my technical learning and curiosity.
 
