@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vishesh Yadav
 
 🎓 **Final-year Computer Science student at DTU (2022–2026)**  
-💼 **Ex-Founder’s Office Intern @ Defxmart** (Data Analytics & Business Strategy)
+💼 **Ex-Founder’s Office Intern @ Defxmart** (Data Analytics & Business Strategy& Web development)
 
 ---
 
@@ -38,12 +38,6 @@ On my GitHub, you’ll find a blend of analytics dashboards, AI-based applicatio
 - 🤝 Open to collaborating on data-driven projects and innovative ideas
 - 💡 Interested in data analytics, AI, and impactful problem-solving
 
----
 
-## 📫 Connect with Me
-
-[![LinkedIn: Vishesh Yadav](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vishesh-yadav-78112a207)
-
----
 
 _Thanks for visiting my profile! Let’s build something impactful together._
