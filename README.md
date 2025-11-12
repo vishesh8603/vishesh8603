@@ -28,7 +28,7 @@ On my GitHub, you’ll find a blend of analytics dashboards, AI-based applicatio
 - [Power BI Blinkit Project](https://github.com/vishesh8603/POWERBI-BLINKIT-PROJECT)  
   _Retail data analysis and visualization using Power BI._
 
-- AI-Powered Dynamic UI Engine(https://github.com/vishesh8603/aidynamicui)
+- [AI-Powered Dynamic UI Engine](https://github.com/vishesh8603/aidynamicui)
   an ai dynamic ui generator
 ---
 
