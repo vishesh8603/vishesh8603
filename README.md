@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vishesh Yadav
 
 🎓 **Final-year Computer Science student at DTU (2022–2026)**  
-💼 **Ex-Founder’s Office Intern @ Defxmart** (Data Analytics & Business Strategy& Web development)
+
 
 ---
 
